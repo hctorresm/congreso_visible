@@ -1,0 +1,98 @@
+month,filtro,Estado,year,value
+C4CR,comisión entrante,Sancionado,2002-2006,706
+CPCR,comisión entrante,Sancionado,2002-2006,535
+CPS,comisión entrante,Sancionado,2002-2006,755
+C1CR,comisión entrante,Sancionado,2002-2006,598
+C1S,comisión entrante,Sancionado,2002-2006,543
+C5CR,comisión entrante,Sancionado,2002-2006,493
+C5S,comisión entrante,Sancionado,2002-2006,542
+C2CR,comisión entrante,Sancionado,2002-2006,492
+C2S,comisión entrante,Sancionado,2002-2006,513
+C7CR,comisión entrante,Sancionado,2002-2006,576
+C7S,comisión entrante,Sancionado,2002-2006,749
+C6CR,comisión entrante,Sancionado,2002-2006,631
+C6S,comisión entrante,Sancionado,2002-2006,547
+C3CR,comisión entrante,Sancionado,2002-2006,458
+C3S,comisión entrante,Sancionado,2002-2006,504
+NA,comisión entrante,Sancionado,2002-2006,434
+C4CR,comisión entrante,Sancionado,2006-2010,664
+C4S,comisión entrante,Sancionado,2006-2010,847
+C1CR,comisión entrante,Sancionado,2006-2010,607
+C1S,comisión entrante,Sancionado,2006-2010,551
+C5CR,comisión entrante,Sancionado,2006-2010,434
+C5S,comisión entrante,Sancionado,2006-2010,699
+C2CR,comisión entrante,Sancionado,2006-2010,535
+C2S,comisión entrante,Sancionado,2006-2010,540
+C7CR,comisión entrante,Sancionado,2006-2010,674
+C7S,comisión entrante,Sancionado,2006-2010,762
+C6CR,comisión entrante,Sancionado,2006-2010,668
+C6S,comisión entrante,Sancionado,2006-2010,667
+C3CR,comisión entrante,Sancionado,2006-2010,453
+C3S,comisión entrante,Sancionado,2006-2010,445
+NA,comisión entrante,Sancionado,2006-2010,245
+C4CR,comisión entrante,Sancionado,2010-2014,489
+C4S,comisión entrante,Sancionado,2010-2014,456
+C1CR,comisión entrante,Sancionado,2010-2014,463
+C1S,comisión entrante,Sancionado,2010-2014,523
+C5CR,comisión entrante,Sancionado,2010-2014,558
+C5S,comisión entrante,Sancionado,2010-2014,837
+C2CR,comisión entrante,Sancionado,2010-2014,478
+C2S,comisión entrante,Sancionado,2010-2014,417
+C7CR,comisión entrante,Sancionado,2010-2014,566
+C7S,comisión entrante,Sancionado,2010-2014,609
+C6CR,comisión entrante,Sancionado,2010-2014,534
+C6S,comisión entrante,Sancionado,2010-2014,464
+C3CR,comisión entrante,Sancionado,2010-2014,516
+C3S,comisión entrante,Sancionado,2010-2014,486
+C4CR,comisión entrante,Sancionado,2014-2018,560
+C4S,comisión entrante,Sancionado,2014-2018,352
+C1CR,comisión entrante,Sancionado,2014-2018,500
+C1S,comisión entrante,Sancionado,2014-2018,550
+C5CR,comisión entrante,Sancionado,2014-2018,554
+C5S,comisión entrante,Sancionado,2014-2018,570
+C2CR,comisión entrante,Sancionado,2014-2018,466
+C2S,comisión entrante,Sancionado,2014-2018,508
+C7CR,comisión entrante,Sancionado,2014-2018,520
+C7S,comisión entrante,Sancionado,2014-2018,608
+C6CR,comisión entrante,Sancionado,2014-2018,535
+C6S,comisión entrante,Sancionado,2014-2018,535
+C3CR,comisión entrante,Sancionado,2014-2018,435
+C3S,comisión entrante,Sancionado,2014-2018,584
+Proyecto de Ley,Tipo proyecto,Sancionado,2002-2006,507
+Proyecto de ley Estatutaria,Tipo proyecto,Sancionado,2002-2006,585
+Proyecto de Ley,Tipo proyecto,Sancionado,2006-2010,545
+Proyecto de ley Estatutaria,Tipo proyecto,Sancionado,2006-2010,818
+Proyecto de Ley,Tipo proyecto,Sancionado,2010-2014,431
+Proyecto de ley Estatutaria,Tipo proyecto,Sancionado,2010-2014,707
+Proyecto de Ley,Tipo proyecto,Sancionado,2014-2018,446
+Proyecto de ley Estatutaria,Tipo proyecto,Sancionado,2014-2018,611
+Gubernamental,Iniciativa,Sancionado,2002-2006,408
+Legislativa,Iniciativa,Sancionado,2002-2006,582
+Mixta,Iniciativa,Sancionado,2002-2006,481
+Otras entidades,Iniciativa,Sancionado,2002-2006,458
+Gubernamental,Iniciativa,Sancionado,2006-2010,403
+Legislativa,Iniciativa,Sancionado,2006-2010,643
+Mixta,Iniciativa,Sancionado,2006-2010,531
+Otras entidades,Iniciativa,Sancionado,2006-2010,235
+Gubernamental,Iniciativa,Sancionado,2010-2014,348
+Legislativa,Iniciativa,Sancionado,2010-2014,516
+Otras entidades,Iniciativa,Sancionado,2010-2014,523
+Gubernamental,Iniciativa,Sancionado,2014-2018,312
+Legislativa,Iniciativa,Sancionado,2014-2018,529
+Otras entidades,Iniciativa,Sancionado,2014-2018,387
+Local,Alcance,Sancionado,2002-2006,581
+Nacional,Alcance,Sancionado,2002-2006,491
+Regional,Alcance,Sancionado,2002-2006,564
+Tratado,Alcance,Sancionado,2002-2006,496
+Local,Alcance,Sancionado,2006-2010,620
+Nacional,Alcance,Sancionado,2006-2010,561
+Regional,Alcance,Sancionado,2006-2010,432
+Tratado,Alcance,Sancionado,2006-2010,458
+Local,Alcance,Sancionado,2010-2014,497
+Nacional,Alcance,Sancionado,2010-2014,435
+Regional,Alcance,Sancionado,2010-2014,445
+Tratado,Alcance,Sancionado,2010-2014,403
+Local,Alcance,Sancionado,2014-2018,467
+Nacional,Alcance,Sancionado,2014-2018,440
+Regional,Alcance,Sancionado,2014-2018,416
+Tratado,Alcance,Sancionado,2014-2018,506
